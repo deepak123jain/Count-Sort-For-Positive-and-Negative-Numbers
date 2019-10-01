@@ -1,2 +1,2 @@
 # Count-Sort-For-Positive-and-Negative-Numbers
-The Sorting Algorithm is used to sort numbers using positive and negative numbers.
+The Code is an extension to the tradional count Sort algorithm, which can sort positive as well as negative numbers in linear time complexity.
